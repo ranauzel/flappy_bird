@@ -1,1 +1,1 @@
-# flipy_bird
+# flappy_bird
